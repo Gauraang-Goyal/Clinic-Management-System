@@ -1,0 +1,51 @@
+Patient_ID,Date_of_Visit,Medicine_start,Medicine_end,Medicine_Name,Doctor_Name,Doctor_type
+1,21-07-23,21-07-46,5 days,Pneumococcal Vac Polyvalent,Dr.Sai,Cardiologist
+2,22-07-23,21-07-46,6 days,Bisacodyl,Dr.Arjun,Pediatrician
+3,23-07-23,21-07-46,7 days,Bisacodyl,Dr.Arjun,Pediatrician
+4,24-07-23,21-07-46,2 days,Senna,Dr.Prisha,Neuologist
+5,25-07-23,21-07-46,3 days,Docusate Sodium (Liquid),Dr.Aarush,Oncologist
+6,26-07-23,21-07-46,4 days,Heparin,Dr.Krishna,Rheumatologist
+7,27-07-23,21-07-46,5 days,Simvastatin,Dr.Prisha,Neuologist
+8,28-07-23,21-07-46,6 days,Aspirin,Dr.Rajeev,General_Practitioner
+9,29-07-23,21-07-46,7 days,Donepezil,Dr.Anika,Pulmonologist
+10,30-07-23,21-07-46,8 days,Gabapentin,Dr.Krishna,Rheumatologist
+11,31-07-23,21-07-46,21 days,Namenda,Dr.Sai,Cardiologist
+12,01-08-23,21-07-46,22 days,Tolterodine,Dr.Advik,Endocrinologist
+13,02-08-23,21-07-46,23 days,Metoprolol Succinate XL,Dr.Ayaan,Podiatrist
+14,03-08-23,21-07-46,24 days,Tamsulosin,Dr.Advik,Endocrinologist
+15,04-08-23,21-07-46,25 days,Docusate Sodium,Dr.Aditi,Nephrologist
+16,05-08-23,25-10-35,26 days,Sodium Chloride 0.9%  Flush,Dr.Prisha,Neuologist
+17,06-08-23,25-10-35,27 days,Heparin,Dr.Krishna,Rheumatologist
+18,07-08-23,25-10-35,28 days,Guaifenesin,Dr.Krishna,Rheumatologist
+19,24-07-23,25-10-35,29 days,Albuterol Inhaler,Dr.Sonal,Allergists
+20,25-07-23,25-10-35,30 days,Amlodipine,Dr.Kapil,Psychiatrist
+21,26-07-23,25-10-35,7 days,Finasteride,Dr.Anika,Pulmonologist
+22,27-07-23,25-10-35,8 days,Gabapentin,Dr.Krishna,Rheumatologist
+23,28-07-23,25-10-35,9 days,Levothyroxine Sodium,Dr.Ayaan,Podiatrist
+24,29-07-23,25-10-35,10 days,Tamsulosin,Dr.Advik,Endocrinologist
+25,30-07-23,25-10-35,11 days,Tiotropium Bromide,Dr.Advik,Endocrinologist
+26,31-07-23,25-10-35,60 days,Aspirin,Dr.Rajeev,General_Practitioner
+27,01-08-23,25-10-35,30 days,Azithromycin,Dr.Anil,General_Practitioner
+28,02-08-23,25-10-35,1 days,Azithromycin,Dr.Anil,General_Practitioner
+29,03-08-23,25-10-35,15 days,PredniSONE,Dr.Sai,Cardiologist
+30,04-08-23,25-10-35,12 days,Docusate Sodium,Dr.Aditi,Nephrologist
+31,05-08-23,25-10-35, 7 days,Senna,Dr.Prisha,Neuologist
+32,06-08-23,25-10-35,8 days,Sodium Chloride Nasal,Dr.Advik,Endocrinologist
+33,07-08-23,25-10-35,9 days,Sodium Chloride 0.9%  Flush,Dr.Prisha,Neuologist
+34,08-08-23,26-10-35,10 days,Azithromycin,Dr.Anil,General_Practitioner
+35,09-08-23,27-10-35,11 days,PredniSONE,Dr.Sai,Cardiologist
+36,10-08-23,04-11-28,12 days,Pneumococcal Vac Polyvalent,Dr.Sai,Cardiologist
+37,11-08-23,04-11-28,19 days,Heparin Flush (10 units/ml),Dr.Ayaan,Podiatrist
+38,12-08-23,04-11-28,23 days,Multivitamins,Dr.Sai,Cardiologist
+39,13-08-23,04-11-28,23 days,Ferrous Sulfate,Dr.Anika,Pulmonologist
+40,14-08-23,04-11-28,7 days,Ipratropium Bromide Neb,Dr.Ayaan,Podiatrist
+41,15-08-23,04-11-28,6 days,Albuterol 0.083% Neb Soln,Dr.Sanjeev,Dermatologist
+42,16-08-23,04-11-28,5 days,Sertraline,Dr.Prisha,Neuologist
+43,17-08-23,04-11-28,4 days,Simvastatin,Dr.Prisha,Neuologist
+44,18-08-23,04-11-28,3 days,Levothyroxine Sodium,Dr.Ayaan,Podiatrist
+45,19-08-23,04-11-28,2 days,Allopurinol,Dr.Raghav,Immunologists
+46,20-08-23,05-11-28,1 days,Pantoprazole,Dr.Sai,Cardiologist
+47,21-08-23,05-11-28,0 days,Furosemide,Dr.Krishna,Rheumatologist
+48,22-08-23,05-11-28,1 days,Carvedilol,Dr.Aditaya,Urologist
+49,05-11-23,05-11-28,2 days,Carvedilol,Dr.Aditaya,Urologist
+51,19-07-23,19-07-23,3 days,Algebra,Dr.Sai,Cardiologist
